@@ -9,7 +9,7 @@
 
 ## System Architecture Diagram
 
-![alt text](https://drive.google.com/file/d/150vf3kOq4yle9u9jIhXjn4sV4w1HJ06e/view?usp=sharing)
+![System Architecture Diagram](https://raw.githubusercontent.com/wantanto/wt-api/main/Assignment%20Tech%20Studio.drawio.png)
 
 ## Installation
 
@@ -18,8 +18,8 @@
 ```bash
 $ npm install
 ```
-3. Copy and paste secret keys to file .env 
-4. Copy and paste key (cert.pem, key.pem) under secrets folder
+3. Copy and paste file .env to root directory
+4. Copy and paste secrets folder to root directory
 
 ## Running the app
 
